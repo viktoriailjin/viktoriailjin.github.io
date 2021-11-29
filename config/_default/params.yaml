@@ -14,9 +14,9 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-twitter: 'wowchemy'
+org_name: 'Виктория Ильин'
+description: 'Я - фотограф и преподаватель, снимаю и учу в онлайн-школе Фотография Новорожденных'
+twitter: 'IljinViktoria'
 
 # Site header
 
@@ -31,14 +31,14 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: '2 Jan 2006'
+time_format: '15:04'
 
 # Site features
 
 highlight: true
 highlight_languages:
-  - r
+  - bash
 math: false
 diagram: false
 privacy_pack: false
@@ -51,11 +51,11 @@ edit_page:
     post: false
 show_related:
   post: true
-email: test@example.org
+email: viktoria.iljin@gmail.com
 sharing_image: ''
 reading_time: true
 section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -87,12 +87,11 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-ZY6KEYEBFG'
   google_tag_manager: ''
   google_site_verification: ''
 cms:
-  branch: main
-  local_backend: false
+  netlify_cms: false
 icon:
   pack:
     ai: false

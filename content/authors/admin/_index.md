@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Виктория Ильин
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: фотограф новорожденных
 
 # Status emoji
 status:
@@ -14,11 +14,13 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
-  url: ""
-
+- name: Снимаю в LasteFoto
+  url: "https://www.lastefoto.ee/ru/"
+- name: Преподаю в NewbornPhotoSchool
+  url: "https://newbornphotoschool.com"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+bio: Снимаю в LasteFoto, преподаю в NewbornPhotoSchool
 
 #interests:
 #- Artificial Intelligence
@@ -47,10 +49,13 @@ social:
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wowchemy
+  link: https://twitter.com/iljinviktoria
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/geocushen
+  link: https://www.instagram.com/lastefoto.ee/
 
 # Uncomment below for Github link
 #- icon: github
@@ -66,7 +71,14 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+Я - Виктория Ильин
+- основатель и преподаватель [онлайн-курса фотографии новорожденных](https://newbornphotoschool.com)
+- один из популярных и дорогих фотографов новорожденных в Эстонии
+- [ньюборн фотограф](https://www.lastefoto.ee/ru) с 2016 года
+- провела более 500 фотосессий новорожденных
+- прошла обучение у топовых фотографов новорожденных
+- несколько лет назад организовала личную выставку с фотографиями новорождёнными
+- выступала на местном телевидении и на радио, показывала и рассказывала о процессе съёмки
+- организатор встреч для будущих мам
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Рада, что вы заглянули в мой [блог](https://www.viktoriailjin.com)
