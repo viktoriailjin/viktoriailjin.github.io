@@ -10,10 +10,10 @@ summary: 👋 Добро пожаловать в мой блог, частичк
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-11-29T18:27:34+02:00"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-11-29T18:27:34+02:00"
 
 # Is this an unpublished draft?
 draft: false
