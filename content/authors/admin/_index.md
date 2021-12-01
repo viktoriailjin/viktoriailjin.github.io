@@ -55,7 +55,7 @@ social:
   link: https://www.facebook.com/LasteFoto/
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/lastefoto.ee/
+  link: https://www.instagram.com/viktoriailjin/
 
 # Uncomment below for Github link
 #- icon: github
