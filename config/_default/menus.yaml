@@ -10,3 +10,6 @@ main:
   - name: Обо мне
     url: about/
     weight: 20
+  - name: Photoshop Actions
+    url: photoshop-actions/
+    weight: 30
